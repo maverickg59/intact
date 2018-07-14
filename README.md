@@ -8,5 +8,4 @@ We started by building a web dashboard that Barrick liked so much they invited t
 
 Check out the GIF below for a brief introduction to Intact in action!
 
-
-![Intact GIF](https://s3-us-west-2.amazonaws.com/mgx-photos/intact.gif)
+![Alt Text](https://s3-us-west-2.amazonaws.com/mgx-photos/intact.gif)
