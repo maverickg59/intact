@@ -1,4 +1,4 @@
-#Intact
+# Intact
 
 Intact is the product of a 56 hour hackathon in Denver, CO sponsored by Barrick Gold. Four challenges existed and each team was charged with solving one of four with technology. My team, the Risk Ninjas, chose to help digitize the Field Level Risk Assessment execution and submission process.
 
