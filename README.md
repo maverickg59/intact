@@ -8,4 +8,15 @@ We started by building a web dashboard that Barrick liked so much they invited t
 
 Check out the GIF below for a brief introduction to Intact in action!
 
-![Alt Text](https://s3-us-west-2.amazonaws.com/mgx-photos/intact.gif)
+
+![](https://github.com/jonathanherring/intact-app/blob/master/IntactGif.gif)
+
+
+## Technologies
+Javascript, CSS3, AJAX, ExpressJS, KnexJS, React Native, HTML, Tableau
+
+
+## Contributors
+* https://github.com/maverickg59
+* https://github.com/jonathanherring
+* https://github.com/SadatheToure
